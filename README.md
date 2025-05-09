@@ -18,7 +18,7 @@ MMU/
 ├── memory.h # Struct definitions and function prototypes
 ├── README.md # Project documentation
 
-**##🧠 **Concepts You Will Learn****
+##🧠 **Concepts You Will Learn**
 **-Linked list manipulation**
 **-Memory fragmentation and compaction**
 **-Fit strategies used in memory management**
